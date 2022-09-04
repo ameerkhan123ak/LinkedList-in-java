@@ -1,4 +1,4 @@
-package dataStructure;
+package Main;
 
 public class Demo 
 {
